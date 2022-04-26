@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Jose Alba</h1>
-<h3 align="center">A Junior full stack web developer.</h3>
+<h3 align="center">A Junior full stack web developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://eclectic-sunshine-7bd279.netlify.app/](https://eclectic-sunshine-7bd279.netlify.app/)
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-alba-a74703232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria jose alba" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-alba-a74703232/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria jose alba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
